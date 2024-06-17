@@ -1,0 +1,26 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+  /*background-color: hsla( 0, 0%, 15%, 1 );
+  color: hsla( 0, 0%, 95%, 1 );*/
+}
+
+a {
+  --hue: 270;
+  text-decoration: none;
+  color: hsla( var( --hue ), 100%, 37%, 1 );
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla( var( --hue ), 100%, 37%, 0.2 );
+  }
+}
+
+@media (min-width: 1024px) { }
