@@ -14,9 +14,9 @@ const items = ref([
     description: `PRODUCT: Snowglobe is a serverless p2p platform for TRPGs
         TECH: Three.js, Less.js, Tone.js, Node.js, FileSystem, Socket.io, Simple-peer.js, AWS,
         FEATS:
-        - Organized/Mentored/Lead Volunteer Engineers & Designers
-        - Engineering Architecture
-        - Business/Technology Advocate
+        Organized/Mentored/Lead Volunteer Engineers & Designers
+        Engineering Architecture
+        Business/Technology Advocate
       `,
     images: [
       `/src/assets/snowglobe00.gif`,
@@ -31,10 +31,10 @@ const items = ref([
     description: `PROJECT: MasterCard Click to pay is a fast secure online payment gateway
         TECH: Vue.js, VueX, Sass, Jest, GitLab Pipeline
         FEATS:
-        - Flawless Support
-        - Exceeded KPI
-        - Mentored/Lead Junior Engineers
-        - Design & Business Advocate
+        Flawless Support
+        Exceeded KPI
+        Mentored/Lead Junior Engineers
+        Design & Business Advocate
       `,
     images: [`/src/assets/mastercard00.jpg`, `/src/assets/mastercard01.jpg`]
   },
@@ -44,10 +44,10 @@ const items = ref([
     description: `PROJECT: Marquee is an data-informed asset & currency trading platform client
         TECH: React.js, RxJS, Typescript, Electron.js, Sass, Cypress, GitLab Pipeline
         FEATS:
-        - Exceeded KPI
-        - Reduced onboard time with Architecture Flowchart
-        - Increased accuracy with predictive client data for sporadic API
-        - Collaborated with Design
+        Exceeded KPI
+        Reduced onboard time with Architecture Flowchart
+        Increased accuracy with predictive client data for sporadic API
+        Collaborated with Design
       `,
     images: [
       `/src/assets/goldmansachs00.png`,
@@ -62,9 +62,9 @@ const items = ref([
     description: `PROJECT: Video Player & Ads for the launch of Comedy Central's Trevor Noah Show
         TECH: React.js, RxJS, Typescript, Electron.js, Sass, Mocha, GitLab Pipeline
         FEATS:
-        - Exceeded KPI, Equaled a team of five in story points for multiple sprints
-        - Mentored/Lead Junior Engineers
-        - Ate the most pizza
+        Exceeded KPI, Equaled a team of five in story points for multiple sprints
+        Mentored/Lead Junior Engineers
+        Ate the most pizza
       `,
     images: [`/src/assets/viacom00.png`]
   },
@@ -74,8 +74,8 @@ const items = ref([
     description: `PROJECT: Implement Design and Infiniscroll
         TECH: Drupal, Less.js, PHP
         FEATS:
-        - Implemented Infiniscroll
-        - Collaborated with Design
+        Implemented Infiniscroll
+        Collaborated with Design
       `,
     images: [`/src/assets/time00.png`]
   }
@@ -83,12 +83,4 @@ const items = ref([
 </script>
 
 <style>
-.image-container {
-  font-size: 0;
-}
-.image-container img {
-  vertical-align: top;
-  width: 50%;
-  max-height: 50%;
-}
 </style>
