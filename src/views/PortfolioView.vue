@@ -12,7 +12,7 @@ const items = ref([
     company: `snowglobe.js`,
     title: `Founder | Tech Lead`,
     description: `PRODUCT: Snowglobe is a serverless p2p platform for TRPGs
-        TECH: Three.js, Less.js, Tone.js, Node.js, FileSystem, Socket.io, Simple-peer.js, AWS,
+        TECH: Three.js, Less.js, Tone.js, Node.js, FileSystem, Socket.io, WebRTC, Simple-peer.js, AWS,
         FEATS:
         Organized/Mentored/Lead Volunteer Engineers & Designers
         Engineering Architecture
